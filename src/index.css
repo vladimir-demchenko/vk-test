@@ -1,0 +1,12 @@
+.ant-btn {
+    margin-right: 8px;
+}
+
+.container {
+    display: flex;
+}
+
+.card {
+    margin: 0 auto;
+    padding: 30px;
+}
